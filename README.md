@@ -1,2 +1,0 @@
-# cse-aiml
-college assignment
